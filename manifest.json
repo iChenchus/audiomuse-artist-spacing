@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    {
+      "id": "artist_spacing",
+      "name": "Artist Spacing",
+      "author": "iChenchus",
+      "description": "Keeps songs of the same artist apart in Instant Mix and other similar-song lists: at least N songs of other artists between two of the same one (3 by default, the seed song counts). Nothing is added or removed, the list is only reordered.",
+      "pluginUrl": "https://raw.githubusercontent.com/iChenchus/audiomuse-artist-spacing/main/plugins/artist_spacing/plugin.json"
+    }
+  ]
+}
